@@ -1,0 +1,23 @@
+{
+  "name": "flowtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalnuo/flow-reporter-test-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalnuo/flow-reporter-test-project/issues"
+  },
+  "homepage": "https://github.com/lalnuo/flow-reporter-test-project#readme",
+  "devDependencies": {
+    "flow-bin": "^0.42.0"
+  }
+}
